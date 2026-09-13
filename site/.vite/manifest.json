@@ -1,0 +1,70 @@
+{
+  "_framework-iK0KjpCU.js": {
+    "file": "kaheiwongnatalie.github.io/_next/static/chunks/framework-iK0KjpCU.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-CdxQzk4T.js"
+    ]
+  },
+  "_rolldown-runtime-CdxQzk4T.js": {
+    "file": "kaheiwongnatalie.github.io/_next/static/chunks/rolldown-runtime-CdxQzk4T.js",
+    "name": "rolldown-runtime"
+  },
+  "app/page.tsx": {
+    "file": "kaheiwongnatalie.github.io/_next/static/chunks/page-DY2h7cRW.js",
+    "name": "page",
+    "src": "app/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-CdxQzk4T.js",
+      "_framework-iK0KjpCU.js"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_0daff7f6333b76acdfc11049eb4d5d61/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "kaheiwongnatalie.github.io/_next/static/chunks/app-route-prefetch-policy-CSF13IyS.js",
+    "name": "app-route-prefetch-policy",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_0daff7f6333b76acdfc11049eb4d5d61/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_0daff7f6333b76acdfc11049eb4d5d61/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "kaheiwongnatalie.github.io/_next/static/chunks/layout-segment-context-_K92zhi9.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_0daff7f6333b76acdfc11049eb4d5d61/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-CdxQzk4T.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-iK0KjpCU.js"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_0daff7f6333b76acdfc11049eb4d5d61/node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "kaheiwongnatalie.github.io/_next/static/chunks/streamed-icons-CGuWQD9m.js",
+    "name": "streamed-icons",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_0daff7f6333b76acdfc11049eb4d5d61/node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-CdxQzk4T.js",
+      "_framework-iK0KjpCU.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "kaheiwongnatalie.github.io/_next/static/chunks/index-DxAEJFIN.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-CdxQzk4T.js",
+      "_framework-iK0KjpCU.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_0daff7f6333b76acdfc11049eb4d5d61/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "virtual:vinext-app-browser-entry",
+      "app/page.tsx",
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_0daff7f6333b76acdfc11049eb4d5d61/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs_0daff7f6333b76acdfc11049eb4d5d61/node_modules/vinext/dist/shims/streamed-icons.js"
+    ]
+  }
+}
